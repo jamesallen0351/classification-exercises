@@ -11,3 +11,4 @@ iris_df.csv
 Cust_Churn_Telco - Cust_Churn_Telco.csv
 Cust_Churn_Telco.xlsx
 untidy-data
+*.csv
